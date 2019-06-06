@@ -2,11 +2,12 @@
 notes of blockchain and ethertum
 
 ## Week One
-### overlook of the stack 
+### 1.1 overlook of the stack 
 1）frount-end: React
 
 2）API layer: WEB3----web3.py
-(node.js,typescript）
+
+(MORE: node.js,typescript）
 
 3）transaction layer: golang(geth),Kotlin
 
@@ -14,17 +15,17 @@ notes of blockchain and ethertum
 
 ----
 
-5）tDatabase
+5）Database
 
 6）AWS EC2/EKS
 
-### GraphQL
+### 1.2 GraphQL
 
 
-### Kaleido
+### 1.3 Kaleido
 
 
-### Infura
+### 1.4 Infura
 
 
-### web3(.py)
+### 1.5 web3(.py)
