@@ -32,7 +32,7 @@ Three layers:
 
 2) https://graphql.org/code/ 
 
-3)Relay or appollo-client, etc.
+3) Relay or appollo-client, etc.
 
 
 ### 1.3 Kaleido
