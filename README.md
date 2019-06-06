@@ -20,12 +20,15 @@ notes of blockchain and ethertum
 6）AWS EC2/EKS
 
 ### 1.2 GraphQL
+a query language for APIs and a runtime for fulfilling those queries with your existing data.
+
+a complete and understandable description of the data in your API
 
 complete type system
 
 combine multy RUSTful requests into one
 
-N+1
+N+1 issue
 
 Three layers:
 1) https://graphql.org/
