@@ -10,13 +10,13 @@ notes of blockchain and ethertum
 
 3）transaction layer: golang(geth),Kotlin
 
-4) Kaleido(private network Baas) and Infura(gateway to punlic network)
+4）Kaleido(private network Baas) and Infura(gateway to punlic network)
 
 ----
 
-5) Database
+5）tDatabase
 
-6) AWS EC2/EKS
+6）AWS EC2/EKS
 
 ### GraphQL
 
