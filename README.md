@@ -21,6 +21,19 @@ notes of blockchain and ethertum
 
 ### 1.2 GraphQL
 
+complete type system
+
+combine multy RUSTful requests into one
+
+N+1
+
+Three layers:
+1) https://graphql.org/
+
+2) https://graphql.org/code/ 
+
+3)Relay or appollo-client, etc.
+
 
 ### 1.3 Kaleido
 
