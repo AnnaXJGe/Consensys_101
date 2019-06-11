@@ -103,3 +103,13 @@ geth attach infura
 
 
 ### 1.5 web3(.py)
+
+
+Web3.js talks to The Ethereum Blockchain with JSON RPC, which stands for "Remote Procedure Call" protocol.
+
+
+#### Web3 Technology Stack
+
+#### web3.js
+
+http://www.dappuniversity.com/articles/web3-js-intro
