@@ -58,9 +58,48 @@ Three layers:
  
  #### create network
  
- API
+####  API 101
+
+API key
+
+export APIURL="https://console.kaleido.io/api/v1"
+export APIKEY="YOUR_API_KEY"
+export HDR_AUTH="Authorization: Bearer $APIKEY"
+export HDR_CT="Content-Type: application/json"
+
+JSON Sytnax
+
+Create consortium
+
+Create environment
+
+Create node
+
+https://docs.kaleido.io/developer-materials/api-101/
+
  
 ### 1.4 Infura
+
+from truffel to Infura
+
+HDWalletProvider object
+
+var HDWalletProvider = require("truffle-hdwallet-provider");
+
+var mnemonic = "orange apple banana ... ";
+
+network---Ropsten
+
+contract
+
+geth attach infura
+
+
+
+
+
+
+
 
 
 ### 1.5 web3(.py)
