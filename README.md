@@ -1,7 +1,7 @@
 # Consensys_101
 notes of blockchain and ethertum
 
-## Week One
+## Week One Big Picture
 ### 1.1 overlook of the stack 
 1）frount-end: React
 
