@@ -41,6 +41,25 @@ Three layers:
 ### 1.3 Kaleido
 
 
+ fully-encompassed SaaS (Software as a Service) platform 
+ 
+ 
+ simplify the process of building out consortia and bootstrapping private blockchain networks
+ 
+ 
+ provides a “permissioned” implementation of the Ethereum protocol
+ 
+ member participants operate with authenticated identities backed by digital certificate chains
+ 
+ #### Prerequisites
+ 
+ --REST API 
+ --applications and CLI
+ 
+ #### create network
+ 
+ API
+ 
 ### 1.4 Infura
 
 
