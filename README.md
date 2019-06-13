@@ -147,3 +147,11 @@ docs: https://truffleframework.org/docs/ganache/using
 
 https://www.trufflesuite.com/tutorials
 
+
+#### Cryptozombie
+
+https://cryptozombies.io/
+
+notes available:
+https://github.com/loomnetwork/cryptozombie-lessons
+
