@@ -113,3 +113,37 @@ Web3.js talks to The Ethereum Blockchain with JSON RPC, which stands for "Remote
 #### web3.js
 
 http://www.dappuniversity.com/articles/web3-js-intro
+
+
+## Week Two
+
+### Test net
+#### Rinkebey
+
+https://www.rinkeby.io/#stats
+
+#### Fancet
+
+The ether faucet is running on the Rinkeby network.
+
+In order to avoid spam attacks, requests are tied to twitter (or FB).
+
+1) Make a tweet with Ethereum Address pasted into the contents.
+2) Copy-paste the tweet url into Rinkeby Faucet and choose "give me Ether"
+
+truffle---Infura---Rinkebey
+
+#### Ganache
+
+previously testRPC
+
+https://github.com/trufflesuite/ganache/releases
+
+version 2
+
+docs: https://truffleframework.org/docs/ganache/using
+
+#### Truffle tutorial
+
+https://www.trufflesuite.com/tutorials
+
