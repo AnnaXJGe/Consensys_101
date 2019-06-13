@@ -150,6 +150,8 @@ https://www.trufflesuite.com/tutorials
 
 #### Cryptozombie
 
+A serious of coding games that help people to start learning Blockchain.
+
 https://cryptozombies.io/
 
 notes available:
