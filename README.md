@@ -143,12 +143,12 @@ version 2
 
 docs: https://truffleframework.org/docs/ganache/using
 
-#### Truffle tutorial
+### Truffle tutorial
 
 https://www.trufflesuite.com/tutorials
 
 
-#### Cryptozombie
+### Cryptozombie
 
 A serious of coding games that help people to start learning Blockchain.
 
