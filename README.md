@@ -155,3 +155,4 @@ https://cryptozombies.io/
 notes available:
 https://github.com/loomnetwork/cryptozombie-lessons
 
+https://github.com/loomnetwork/cryptozombie-lessons/tree/master/zh
