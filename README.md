@@ -1,5 +1,5 @@
 # Consensys_101
-notes of blockchain and ethertum
+notes of blockchain and ethereum
 
 ## Week One Big Picture
 ### 1.1 overlook of the stack 
