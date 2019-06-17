@@ -117,12 +117,12 @@ http://www.dappuniversity.com/articles/web3-js-intro
 
 ## Week Two
 
-### Test net
-#### Rinkebey
+### 2.1 Test net
+#### 2.1.1 Rinkebey
 
 https://www.rinkeby.io/#stats
 
-#### Fancet
+#### 2.1.2 Fancet
 
 The ether faucet is running on the Rinkeby network.
 
@@ -133,7 +133,7 @@ In order to avoid spam attacks, requests are tied to twitter (or FB).
 
 truffle---Infura---Rinkebey
 
-#### Ganache
+#### 2.1.3 Ganache
 
 previously testRPC
 
@@ -143,12 +143,12 @@ version 2
 
 docs: https://truffleframework.org/docs/ganache/using
 
-### Truffle tutorial
+### 2.2 Truffle tutorial
 
 https://www.trufflesuite.com/tutorials
 
 
-### Cryptozombie Review
+### 2.3 Cryptozombie Review
 
 
 A serious of coding games that help people to start learning Blockchain.
@@ -163,9 +163,9 @@ https://github.com/loomnetwork/cryptozombie-lessons/tree/master/zh
 
 ## Week Three
 
-### Hyper Ledger
+### 3.1 Enterprise chain -- Hyper Ledger
 https://hyperledger-fabric.readthedocs.io/en/release-1.2/tutorials.html
 
 
-### smart contract tutorial
+### 3.2 Smart contract tutorial
 https://github.com/monax/legacy-docs
