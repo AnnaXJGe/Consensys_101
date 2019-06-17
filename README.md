@@ -162,3 +162,5 @@ https://github.com/loomnetwork/cryptozombie-lessons/tree/master/zh
 
 ### Hyper Ledger
 https://hyperledger-fabric.readthedocs.io/en/release-1.2/tutorials.html
+
+https://github.com/monax/legacy-docs
