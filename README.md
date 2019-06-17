@@ -160,7 +160,12 @@ https://github.com/loomnetwork/cryptozombie-lessons
 
 https://github.com/loomnetwork/cryptozombie-lessons/tree/master/zh
 
+
+## Week Three
+
 ### Hyper Ledger
 https://hyperledger-fabric.readthedocs.io/en/release-1.2/tutorials.html
 
+
+### smart contract tutorial
 https://github.com/monax/legacy-docs
