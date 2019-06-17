@@ -159,3 +159,6 @@ notes available:
 https://github.com/loomnetwork/cryptozombie-lessons
 
 https://github.com/loomnetwork/cryptozombie-lessons/tree/master/zh
+
+### Hyper Ledger
+https://hyperledger-fabric.readthedocs.io/en/release-1.2/tutorials.html
