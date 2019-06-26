@@ -177,6 +177,8 @@ https://consensys.net/academy/ondemand/
 
 ### Authentication vs Authorization
 
+https://www.okta.com/identity-101/authentication-vs-authorization/
+
 Authentication means confirming your own identity, 
 
 while authorization means granting access to the system. 
@@ -188,10 +190,12 @@ while authorization is the process of verifying what you have access to.
 ### Oauth2 & OIDC
 
 Video: introduction
+
 https://www.youtube.com/watch?v=996OiexHze0
 
 
 Tutorial: Flask & OKTA
+
 https://developer.okta.com/blog/2018/07/12/flask-tutorial-simple-user-registration-and-login
 
 
