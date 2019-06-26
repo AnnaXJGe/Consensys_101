@@ -175,7 +175,7 @@ https://consensys.net/academy/ondemand/
 
 ## Week Four
 
-### Authentication vs Authorization
+### 4.1 Authentication vs Authorization
 
 https://www.okta.com/identity-101/authentication-vs-authorization/
 
@@ -187,7 +187,7 @@ In simple terms, authentication is the process of verifying who you are,
 
 while authorization is the process of verifying what you have access to.
 
-### Oauth2 & OIDC
+### 4.2 Oauth2 & OIDC
 
 Video: introduction
 
