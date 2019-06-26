@@ -177,7 +177,13 @@ https://consensys.net/academy/ondemand/
 
 ### Authentication vs Authorization
 
+Authentication means confirming your own identity, 
 
+while authorization means granting access to the system. 
+
+In simple terms, authentication is the process of verifying who you are, 
+
+while authorization is the process of verifying what you have access to.
 
 ### Oauth2 & OIDC
 
