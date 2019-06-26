@@ -169,3 +169,24 @@ https://hyperledger-fabric.readthedocs.io/en/release-1.2/tutorials.html
 
 ### 3.2 Smart contract tutorial
 https://github.com/monax/legacy-docs
+
+### 3.3 Developer Program On Demand
+https://consensys.net/academy/ondemand/
+
+## Week Four
+
+### Authentication vs Authorization
+
+
+
+### Oauth2 & OIDC
+
+Video: introduction
+https://www.youtube.com/watch?v=996OiexHze0
+
+
+Tutorial: Flask & OKTA
+https://developer.okta.com/blog/2018/07/12/flask-tutorial-simple-user-registration-and-login
+
+
+https://www.jerney.io/secure-apis-kong-keycloak-1/
