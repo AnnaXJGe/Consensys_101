@@ -200,3 +200,6 @@ https://developer.okta.com/blog/2018/07/12/flask-tutorial-simple-user-registrati
 
 
 https://www.jerney.io/secure-apis-kong-keycloak-1/
+
+
+11:33 1210
